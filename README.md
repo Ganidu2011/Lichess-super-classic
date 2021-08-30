@@ -1,1 +1,0 @@
-# Lichess-super-classic
